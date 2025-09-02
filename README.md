@@ -13,8 +13,8 @@ This project, or any related work inspired by it, is based on and inspired by [t
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/hosseinSh1379/RextX.ts.git
+cd RextX.ts
 ```
 2.Install dependencies:
 ```bash
